@@ -27,7 +27,8 @@ a{color: white;
 }
 .icon2{float: right;
 }
-.wraper{float: right;}
+.wraper{float: right;
+}
 .wraper2{float: right;
 margin-right: 20px;
 }
@@ -43,3 +44,7 @@ margin-right: 20px;
 }
 .article1{margin-bottom: 18px;
 }
+.wraper p {color: #006837;
+	font-family: 'BPG Algeti';
+}
+.wraper2 p{font-family: 'BPG Algeti';}
