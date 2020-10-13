@@ -1,0 +1,45 @@
+body{background-color: #56836F;
+}
+.image1{float: right;
+	margin: 49px 56px 63.5px 65.4px;
+	width: 201px;
+}
+.li{float: right;
+padding: 28px;
+font-size: 48px;
+}
+a{color: white;
+}
+.clear{clear: both;
+}
+.container{width: 1158px;
+	margin: 0 auto;
+}
+.wraper{width: 569px;
+	background-color: #FCEE21;
+	padding: 20px;
+}
+.wraper2{width: 569px;
+	background-color: #FCEE21;
+	padding: 20px;
+}
+.icon{float: left;
+}
+.icon2{float: right;
+}
+.wraper{float: right;}
+.wraper2{float: right;
+margin-right: 20px;
+}
+.article1{font-size: 14px;
+}
+.article2{font-size: 14px;
+}
+.icon2{width: 151px;
+	margin-left: 18px;
+}
+.icon{width: 151px;
+	margin-right: 18px;
+}
+.article1{margin-bottom: 18px;
+}
